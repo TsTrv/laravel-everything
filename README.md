@@ -1,4 +1,5 @@
 ## Laravel Everything
+A list of Laravel resource links.
 
 ## Basics
 * [Laravel](https://laravel.com) ([Documentation](https://laravel.com/docs), [Creator](https://twitter.com/taylorotwell))
@@ -24,16 +25,16 @@
 
 ## Books
 
+## Videos
+
 ## Podcasts
+
+## Newsletters
+
+## Communities
 
 ## Packages
 
 ## Jobs
 
-## Unique Projects
-
-## Best Practices
-
-## Starter Projects
-
-## Communities
+## Contributing
