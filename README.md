@@ -28,13 +28,20 @@ A list of Laravel resource links.
 ## Videos
 
 ## Podcasts
+* [Laravel News Podcast](https://laravel-news.com/podcast)
+* [The Laravel Podcast](https://laravelpodcast.com/)
+* [The Laracasts Snippet](https://laracasts.com/podcast)
 
 ## Newsletters
+* [Laravel News](https://laravel-news.com/newsletter)
 
 ## Communities
+* [Slack](https://larachat.co/register)
+* [Discord](https://discord.com/invite/mPZNm7A)
 
 ## Packages
 
 ## Jobs
+* [Larajobs](https://larajobs.com/)
 
 ## Contributing
