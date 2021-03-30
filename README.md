@@ -39,6 +39,19 @@ A list of Laravel resource links.
 * [Slack](https://larachat.co/register)
 * [Discord](https://discord.com/invite/mPZNm7A)
 
+## People
+* [Taylor Otwell](https://twitter.com/taylorotwell)
+* [Jeffrey Way](https://twitter.com/jeffrey_way)
+* [Mohamed Said](https://twitter.com/themsaid)
+* [Nuno Maduro](https://twitter.com/enunomaduro)
+* [James Brooks](https://twitter.com/jbrooksuk)
+* [Dries Vints](https://twitter.com/driesvints)
+* [Povilas Korop](https://twitter.com/PovilasKorop)
+* [Freek Van der Herten](https://twitter.com/freekmurze)
+* [Marcel Pociot](https://twitter.com/marcelpociot)
+* [Matt Stauffer](https://twitter.com/stauffermatt)
+* [Jonathan Reinink](https://twitter.com/reinink)
+
 ## Packages
 
 ## Jobs
